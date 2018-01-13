@@ -1,0 +1,72 @@
+﻿@model CoradoK_A2.Models.GuestResponse
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>RsvpForm</title>
+    <link rel="stylesheet" href="/css/styles.css" />
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+</head>
+
+
+<body>
+
+
+    <!--View modified from textbook tutorial as to correlate to the use intent for a student competitiion (in this case a hackathon)-->
+    <div class="panel panel-success">
+        <div class="panel-heading text-center"><h4>RSVP</h4></div>
+        <div class="panel-body">
+            <form class="p-a-1" asp-action="RsvpForm" method="post">
+                <div asp-validation-summary="All"></div>
+                
+                <div class="form-group">
+                    <label asp-for="StudentId">Your StudentID:</label>
+                    <input class="form-control" asp-for="StudentId" maxlength="9"/>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Name">Your name:</label>
+                    <input class="form-control" asp-for="Name" />
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Email">Your email:</label>
+                    <input class="form-control" asp-for="Email" />
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Phone">Your phone:</label>
+                    <input class="form-control" asp-for="Phone" />
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="SocialNetworkInterest">Social Network:</label>
+                    <input class="form-control" asp-for="SocialNetworkInterest" />
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Interest">Technical Interest:</label>
+                    <select class="form-control" asp-for="Interest" asp-items="Html.GetEnumSelectList<TechnicalInterest>()">
+                        <option value="0">- Please select an interest -</option>
+                    </select>
+                </div>
+
+
+                <div class="text-center">
+                    <input class="btn btn-danger" type="submit" value="Regretted" name="attendance" asp-for="WillAttend">
+                    <input class="btn btn-success" type="submit" value="Accepted" name="attendance" asp-for="WillAttend">
+
+                </div>
+
+            </form>
+        </div>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,39 @@
+﻿@model CoradoK_A2.Models.Student
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Thanks</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+</head>
+<body class="text-center">
+
+
+    <!--View modified from textbook tutorial as to correlate to the use intent for a student competitiion (in this case a hackathon)-->
+    <h2>Thank you, @Model.Name!</h2>
+    <p>
+        @if (Model.AcceptRegret == "Accepted")
+        {
+            @:It's great that you're coming! Get ready to have a great time!<br />
+
+            @:Sidenote: You were also enrolled in the @Model.TechnicalInterest track of the competition!
+
+        }
+        else
+        {
+            @:Sorry to hear that you can't make it, but thanks for letting us know.
+
+        }
+    </p>
+
+    Click <a class="nav-link" asp-action="ListResponses">here</a>
+    to see who is coming.
+
+    <p>NOTE: To access all WCF operations within one page, click <a class="nav-link" asp-action="AdminPage">here</a></p>
+</body>
+</html>

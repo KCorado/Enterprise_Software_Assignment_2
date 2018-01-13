@@ -1,0 +1,39 @@
+﻿@model CoradoK_A2.Models.GuestResponse
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AdminPage</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+</head>
+<body>
+
+    <div class="panel-body">
+        <h2>Admin Home Page</h2>
+        <p>The intent of this page is to provide easy access to WCF operations, including: GetAllStudents, GetAllGoing, and GetGoingById.</p>
+        <p>The operations will be utilized with the according pages:</p>
+
+        <p>- ListResponses: link <a class="nav-link" asp-action="ListResponses">here</a></p>
+
+        <p>- ListAllStudents: link <a class="nav-link" asp-action="ListAllStudents">here</a></p>
+
+        <p>- SearchStudent: Use form below</p>
+        <div class="form-group">
+            <form class="p-a-1" asp-action="SearchStudent" method="post">
+                <div asp-validation-summary="All"></div>
+
+                <label asp-for="StudentId">StudentID:</label>
+                <input class="form-control" asp-for="StudentId" maxlength="9" name="targetStudentId" />
+
+                <input class="btn btn-success" type="submit"/>
+
+            </form>
+
+        </div>
+    </div>
+
+</body>
+</html>

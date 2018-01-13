@@ -1,0 +1,49 @@
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise Software\Assignments\CoradoK_A2\CoradoK_A2\bin\Debug\netcoreapp2.0\CoradoK_A2.deps.json
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise Software\Assignments\CoradoK_A2\CoradoK_A2\bin\Debug\netcoreapp2.0\CoradoK_A2.runtimeconfig.json
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise Software\Assignments\CoradoK_A2\CoradoK_A2\bin\Debug\netcoreapp2.0\CoradoK_A2.runtimeconfig.dev.json
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise Software\Assignments\CoradoK_A2\CoradoK_A2\bin\Debug\netcoreapp2.0\CoradoK_A2.dll
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise Software\Assignments\CoradoK_A2\CoradoK_A2\bin\Debug\netcoreapp2.0\CoradoK_A2.pdb
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise Software\Assignments\CoradoK_A2\CoradoK_A2\obj\Debug\netcoreapp2.0\CoradoK_A2.csprojResolveAssemblyReference.cache
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise Software\Assignments\CoradoK_A2\CoradoK_A2\obj\Debug\netcoreapp2.0\CoradoK_A2.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise Software\Assignments\CoradoK_A2\CoradoK_A2\obj\Debug\netcoreapp2.0\CoradoK_A2.AssemblyInfoInputs.cache
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise Software\Assignments\CoradoK_A2\CoradoK_A2\obj\Debug\netcoreapp2.0\CoradoK_A2.AssemblyInfo.cs
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise Software\Assignments\CoradoK_A2\CoradoK_A2\obj\Debug\netcoreapp2.0\CoradoK_A2.dll
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise Software\Assignments\CoradoK_A2\CoradoK_A2\obj\Debug\netcoreapp2.0\CoradoK_A2.pdb
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\CoradoK_A2\CoradoK_A2\bin\Debug\netcoreapp2.0\CoradoK_A2.dll
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\CoradoK_A2\CoradoK_A2\obj\Debug\netcoreapp2.0\CoradoK_A2.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\CoradoK_A2\CoradoK_A2\obj\Debug\netcoreapp2.0\CoradoK_A2.AssemblyInfoInputs.cache
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\CoradoK_A2\CoradoK_A2\obj\Debug\netcoreapp2.0\CoradoK_A2.AssemblyInfo.cs
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\CoradoK_A2\CoradoK_A2\obj\Debug\netcoreapp2.0\CoradoK_A2.dll
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\CoradoK_A2\CoradoK_A2\obj\Debug\netcoreapp2.0\CoradoK_A2.pdb
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\CoradoK_A2\CoradoK_A2\bin\CoradoK_A2.deps.json
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\CoradoK_A2\CoradoK_A2\bin\CoradoK_A2.runtimeconfig.json
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\CoradoK_A2\CoradoK_A2\bin\CoradoK_A2.runtimeconfig.dev.json
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\CoradoK_A2\CoradoK_A2\bin\CoradoK_A2.dll
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\CoradoK_A2\CoradoK_A2\bin\CoradoK_A2.pdb
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\CoradoK_A2\CoradoK_A2\obj\Debug\netcoreapp2.0\CoradoK_A2.csprojResolveAssemblyReference.cache
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\CoradoK_A2\CoradoK_A2\bin\Debug\netcoreapp2.0\CoradoK_A2.deps.json
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\CoradoK_A2\CoradoK_A2\bin\Debug\netcoreapp2.0\CoradoK_A2.runtimeconfig.json
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\CoradoK_A2\CoradoK_A2\bin\Debug\netcoreapp2.0\CoradoK_A2.runtimeconfig.dev.json
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\CoradoK_A2\CoradoK_A2\bin\Debug\netcoreapp2.0\CoradoK_A2.pdb
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\KevinCorado-A2\CoradoK_A2\CoradoK_A2\bin\Debug\netcoreapp2.0\CoradoK_A2.deps.json
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\KevinCorado-A2\CoradoK_A2\CoradoK_A2\bin\Debug\netcoreapp2.0\CoradoK_A2.runtimeconfig.json
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\KevinCorado-A2\CoradoK_A2\CoradoK_A2\bin\Debug\netcoreapp2.0\CoradoK_A2.runtimeconfig.dev.json
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\KevinCorado-A2\CoradoK_A2\CoradoK_A2\bin\Debug\netcoreapp2.0\CoradoK_A2.dll
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\KevinCorado-A2\CoradoK_A2\CoradoK_A2\bin\Debug\netcoreapp2.0\CoradoK_A2.pdb
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\KevinCorado-A2\CoradoK_A2\CoradoK_A2\obj\Debug\netcoreapp2.0\CoradoK_A2.csprojResolveAssemblyReference.cache
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\KevinCorado-A2\CoradoK_A2\CoradoK_A2\obj\Debug\netcoreapp2.0\CoradoK_A2.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\KevinCorado-A2\CoradoK_A2\CoradoK_A2\obj\Debug\netcoreapp2.0\CoradoK_A2.AssemblyInfoInputs.cache
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\KevinCorado-A2\CoradoK_A2\CoradoK_A2\obj\Debug\netcoreapp2.0\CoradoK_A2.AssemblyInfo.cs
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\KevinCorado-A2\CoradoK_A2\CoradoK_A2\obj\Debug\netcoreapp2.0\CoradoK_A2.dll
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\KevinCorado-A2\CoradoK_A2\CoradoK_A2\obj\Debug\netcoreapp2.0\CoradoK_A2.pdb
+C:\Users\Kevin Corado\Documents\College\Y3 S1\EntSoft\Assignments\KevinCorado-A2\CoradoK_A2\CoradoK_A2\bin\Debug\netcoreapp2.0\CoradoK_A2.deps.json
+C:\Users\Kevin Corado\Documents\College\Y3 S1\EntSoft\Assignments\KevinCorado-A2\CoradoK_A2\CoradoK_A2\bin\Debug\netcoreapp2.0\CoradoK_A2.runtimeconfig.json
+C:\Users\Kevin Corado\Documents\College\Y3 S1\EntSoft\Assignments\KevinCorado-A2\CoradoK_A2\CoradoK_A2\bin\Debug\netcoreapp2.0\CoradoK_A2.runtimeconfig.dev.json
+C:\Users\Kevin Corado\Documents\College\Y3 S1\EntSoft\Assignments\KevinCorado-A2\CoradoK_A2\CoradoK_A2\bin\Debug\netcoreapp2.0\CoradoK_A2.dll
+C:\Users\Kevin Corado\Documents\College\Y3 S1\EntSoft\Assignments\KevinCorado-A2\CoradoK_A2\CoradoK_A2\bin\Debug\netcoreapp2.0\CoradoK_A2.pdb
+C:\Users\Kevin Corado\Documents\College\Y3 S1\EntSoft\Assignments\KevinCorado-A2\CoradoK_A2\CoradoK_A2\obj\Debug\netcoreapp2.0\CoradoK_A2.csprojResolveAssemblyReference.cache
+C:\Users\Kevin Corado\Documents\College\Y3 S1\EntSoft\Assignments\KevinCorado-A2\CoradoK_A2\CoradoK_A2\obj\Debug\netcoreapp2.0\CoradoK_A2.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Corado\Documents\College\Y3 S1\EntSoft\Assignments\KevinCorado-A2\CoradoK_A2\CoradoK_A2\obj\Debug\netcoreapp2.0\CoradoK_A2.AssemblyInfoInputs.cache
+C:\Users\Kevin Corado\Documents\College\Y3 S1\EntSoft\Assignments\KevinCorado-A2\CoradoK_A2\CoradoK_A2\obj\Debug\netcoreapp2.0\CoradoK_A2.AssemblyInfo.cs
+C:\Users\Kevin Corado\Documents\College\Y3 S1\EntSoft\Assignments\KevinCorado-A2\CoradoK_A2\CoradoK_A2\obj\Debug\netcoreapp2.0\CoradoK_A2.dll
+C:\Users\Kevin Corado\Documents\College\Y3 S1\EntSoft\Assignments\KevinCorado-A2\CoradoK_A2\CoradoK_A2\obj\Debug\netcoreapp2.0\CoradoK_A2.pdb

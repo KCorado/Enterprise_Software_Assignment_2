@@ -1,0 +1,33 @@
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\CoradoK_A2\WCF_Comp\bin\WCF_Comp.dll.config
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\CoradoK_A2\WCF_Comp\bin\WCF_Comp.dll
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\CoradoK_A2\WCF_Comp\bin\WCF_Comp.pdb
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\CoradoK_A2\WCF_Comp\bin\EntityFramework.dll
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\CoradoK_A2\WCF_Comp\bin\EntityFramework.SqlServer.dll
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\CoradoK_A2\WCF_Comp\bin\EntityFramework.xml
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\CoradoK_A2\WCF_Comp\bin\EntityFramework.SqlServer.xml
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\CoradoK_A2\WCF_Comp\obj\Debug\WCF_Comp.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\CoradoK_A2\WCF_Comp\obj\Debug\WCF_Comp.dll
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\CoradoK_A2\WCF_Comp\obj\Debug\WCF_Comp.pdb
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\CoradoK_A2\WCF_Comp\obj\Debug\WCF_Comp.csprojResolveAssemblyReference.cache
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\KevinCorado-A2\CoradoK_A2\WCF_Comp\bin\WCF_Comp.dll.config
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\KevinCorado-A2\CoradoK_A2\WCF_Comp\bin\WCF_Comp.dll
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\KevinCorado-A2\CoradoK_A2\WCF_Comp\bin\WCF_Comp.pdb
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\KevinCorado-A2\CoradoK_A2\WCF_Comp\bin\EntityFramework.dll
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\KevinCorado-A2\CoradoK_A2\WCF_Comp\bin\EntityFramework.SqlServer.dll
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\KevinCorado-A2\CoradoK_A2\WCF_Comp\bin\EntityFramework.xml
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\KevinCorado-A2\CoradoK_A2\WCF_Comp\bin\EntityFramework.SqlServer.xml
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\KevinCorado-A2\CoradoK_A2\WCF_Comp\obj\Debug\WCF_Comp.csprojResolveAssemblyReference.cache
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\KevinCorado-A2\CoradoK_A2\WCF_Comp\obj\Debug\WCF_Comp.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\KevinCorado-A2\CoradoK_A2\WCF_Comp\obj\Debug\WCF_Comp.dll
+C:\Users\Kevin Corado\Documents\College\Year 3 Sem 1\Enterprise\Assignments\KevinCorado-A2\CoradoK_A2\WCF_Comp\obj\Debug\WCF_Comp.pdb
+C:\Users\Kevin Corado\Documents\College\Y3 S1\EntSoft\Assignments\KevinCorado-A2\CoradoK_A2\WCF_Comp\bin\WCF_Comp.dll.config
+C:\Users\Kevin Corado\Documents\College\Y3 S1\EntSoft\Assignments\KevinCorado-A2\CoradoK_A2\WCF_Comp\bin\WCF_Comp.dll
+C:\Users\Kevin Corado\Documents\College\Y3 S1\EntSoft\Assignments\KevinCorado-A2\CoradoK_A2\WCF_Comp\bin\WCF_Comp.pdb
+C:\Users\Kevin Corado\Documents\College\Y3 S1\EntSoft\Assignments\KevinCorado-A2\CoradoK_A2\WCF_Comp\bin\EntityFramework.dll
+C:\Users\Kevin Corado\Documents\College\Y3 S1\EntSoft\Assignments\KevinCorado-A2\CoradoK_A2\WCF_Comp\bin\EntityFramework.SqlServer.dll
+C:\Users\Kevin Corado\Documents\College\Y3 S1\EntSoft\Assignments\KevinCorado-A2\CoradoK_A2\WCF_Comp\bin\EntityFramework.xml
+C:\Users\Kevin Corado\Documents\College\Y3 S1\EntSoft\Assignments\KevinCorado-A2\CoradoK_A2\WCF_Comp\bin\EntityFramework.SqlServer.xml
+C:\Users\Kevin Corado\Documents\College\Y3 S1\EntSoft\Assignments\KevinCorado-A2\CoradoK_A2\WCF_Comp\obj\Debug\WCF_Comp.csprojResolveAssemblyReference.cache
+C:\Users\Kevin Corado\Documents\College\Y3 S1\EntSoft\Assignments\KevinCorado-A2\CoradoK_A2\WCF_Comp\obj\Debug\WCF_Comp.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Corado\Documents\College\Y3 S1\EntSoft\Assignments\KevinCorado-A2\CoradoK_A2\WCF_Comp\obj\Debug\WCF_Comp.dll
+C:\Users\Kevin Corado\Documents\College\Y3 S1\EntSoft\Assignments\KevinCorado-A2\CoradoK_A2\WCF_Comp\obj\Debug\WCF_Comp.pdb
